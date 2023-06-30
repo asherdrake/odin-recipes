@@ -1,0 +1,1 @@
+The is the "Recipes" Project from The Odin Project. This project will demonstrate my newly acquired HTMl and CSS skills.
